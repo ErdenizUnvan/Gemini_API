@@ -15,3 +15,6 @@
 #chat icin gemini-pro
 #foto yuklemek icin gemini-pro-vision
 
+#Google Colab ac
+#Jupyter notebook dosyami yukle
+#Fotoyu upload et: kc_nso_topology_updated.PNG
